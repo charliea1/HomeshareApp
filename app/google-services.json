@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142825967596",
+    "project_id": "homeshareapp-2061b",
+    "storage_bucket": "homeshareapp-2061b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142825967596:android:b007447993bc39b40bbac9",
+        "android_client_info": {
+          "package_name": "com.charliea.homeshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142825967596-7nuk3l734rhruq14jt8ts93qq831ibvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2tccHbDB9W72sPUXelmwbeVYwx0Fvm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142825967596-7nuk3l734rhruq14jt8ts93qq831ibvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
